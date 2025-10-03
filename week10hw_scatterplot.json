@@ -1,0 +1,214 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Green Area per Capita vs Global health (2010)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/tiadavies/Assignment_2/main/merged_data.csv"
+  },
+  "params": [
+    {
+      "name": "Min_GreenArea",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 300,
+        "step": 10,
+        "name": "Minimum Green Area (m² per person): "
+      }
+    },
+    {
+      "name": "Region_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Northern America and Europe",
+          "Latin America and the Caribbean",
+          "Sub-Saharan Africa",
+          "Central and Southern Asia",
+          "Eastern and South-eastern Asia",
+          "Western Asia and Northern Africa",
+          "Australia and New Zealand"
+        ],
+        "labels": [
+          "Show All",
+          "Northern America and Europe",
+          "Latin America and the Caribbean",
+          "Sub-Saharan Africa",
+          "Central and Southern Asia",
+          "Eastern and South-eastern Asia",
+          "Western Asia and Northern Africa",
+          "Australia and New Zealand"
+        ],
+        "name": "Region Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.Measure == 'Green area per capita (m2/person)'"
+    },
+    {
+      "filter": "datum.Year == 2010"
+    },
+    {
+      "filter": "datum.measure_Value >= Min_GreenArea"
+    },
+    {
+      "filter": "datum.Population != null && datum.Population > 0"
+    },
+    {
+      "filter": "Region_selection == null || datum.SDG_Region == Region_selection"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "measure_Value",
+      "type": "quantitative",
+      "title": "Green area per capita (m2/person)",
+      "axis": {
+        "tickCount": 7
+      },
+      "scale": {
+        "type": "symlog",
+        "constant": 10,
+        "domain": [
+          0,
+          500
+        ]
+      }
+    },
+    "y": {
+      "field": "Life_expectancy",
+      "type": "quantitative",
+      "title": "Average Life Expectancy (years)",
+      "scale": {
+        "domain": [
+          40,
+          90
+        ]
+      },
+      "axis": {
+        "tickCount": 6
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": "circle",
+      "encoding": {
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [
+              1000000,
+              30000000,
+              60000000,
+              100000000,
+              500000000
+            ],
+            "range": [
+              50,
+              150,
+              300,
+              500,
+              700,
+              900
+            ]
+          },
+          "legend": {
+            "format": ".1s"
+          }
+        },
+        "color": {
+          "field": "SDG_Region",
+          "type": "nominal",
+          "title": "Region",
+          "scale": {
+            "domain": [
+              "Northern America and Europe",
+              "Latin America and the Caribbean",
+              "Sub-Saharan Africa",
+              "Central and Southern Asia",
+              "Eastern and South-eastern Asia",
+              "Western Asia and Northern Africa",
+              "Australia and New Zealand"
+            ],
+            "range": [
+              "#377eb8",
+              "#ff7f00",
+              "#4daf4a",
+              "#984ea3",
+              "#e41a1c",
+              "#a65628",
+              "#f781bf"
+            ]
+          }
+        },
+        "opacity": {
+          "value": 0.6
+        },
+        "tooltip": [
+          {
+            "field": "Country",
+            "type": "nominal",
+            "title": "Country"
+          },
+          {
+            "field": "Life_expectancy",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Life Expectancy (years)"
+          },
+          {
+            "field": "measure_Value",
+            "type": "quantitative",
+            "title": "Green area per capita (m²/person)",
+            "format": ".2f"
+          },
+          {
+            "field": "Population",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Population"
+          },
+          {
+            "field": "SDG_Region",
+            "type": "nominal",
+            "title": "Region"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "color": {
+          "value": "black"
+        },
+        "opacity": {
+          "condition": {
+            "test": "datum['Country'] == 'Angola' || datum['Country'] == 'Indonesia' || datum['Country'] == 'Pakistan' || datum['Country'] == 'India' || datum['Country'] == 'Uruguay' || datum['Country'] == 'Nigeria' || datum['Country'] == 'Japan'",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    }
+  ]
+}
