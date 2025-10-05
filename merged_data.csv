@@ -1,0 +1,261 @@
+﻿Country,Year,Status,Life_expectancy,Adult_mortality,infant_deaths,Alcohol,percentage_expenditure,Hepatitis_B,Measles,BMI,under-five_deaths,Polio,Total_expenditure,Diphtheria,HIV/AIDS,GDP,Population,thinness_1-19_years,thinness_5-9_years,Income_composition_of_resources,Schooling,SDG_Sub-Region,SDG_Region,green_percapita
+Afghanistan,2000,Developing,54.8,321,88,0.01,10.42496,62,6532,12.2,122,24,8.2,24,0.1,114.56,30000000,2.3,2.5,0.338,5.5,Southern Asia,Central and Southern Asia,5.27
+Afghanistan,2010,Developing,58.8,279,74,0.01,79.67936736,66,1989,16.7,102,66,9.2,66,0.1,553.32894,20000000,18.4,18.4,0.448,9.2,Southern Asia,Central and Southern Asia,2.59
+Algeria,2000,Developing,71.3,145,21,0.25,154.4559436,,0,44.4,25,86,3.49,86,0.1,1757.17797,36000000,6.5,6.4,0.636,10.7,Northern Africa,Western Asia and Northern Africa,2.94
+Algeria,2010,Developing,74.7,119,21,0.45,430.7175861,95,103,53.9,24,95,5.12,95,0.1,4463.394675,31000000,5.9,5.8,0.714,13.6,Northern Africa,Western Asia and Northern Africa,3.58
+Angola,2000,Developing,45.3,48,97,1.85,15.88149254,,2219,15.4,160,3,2.79,28,2,555.2969419,45000000,1.9,1.9,0.382,4.6,Middle Africa,Sub-Saharan Africa,11.6
+Angola,2010,Developing,49.6,365,78,7.8,191.6537407,77,1190,2.4,121,81,3.39,77,2.5,3529.53482,39000000,9.1,9,0.488,9,Middle Africa,Sub-Saharan Africa,11.83
+Argentina,2000,Developing,74.1,137,12,7.68,1349.025282,,6,54,14,88,9.21,83,0.1,7669.273916,42000000,1.2,1.1,0.764,15,South America,Latin America and the Caribbean,56.76
+Argentina,2010,Developing,75.5,121,10,8.15,187.610955,94,17,59.8,11,95,6.55,94,0.1,1276.265,37000000,1,0.9,0.802,16.8,South America,Latin America and the Caribbean,33.23
+Armenia,2000,Developing,72,142,1,2.9,32.75626853,55,15,47.1,1,96,6.25,93,0.1,622.7427477,3000000,2.1,2.2,0.639,11.2,Western Asia,Western Asia and Northern Africa,27.7
+Armenia,2010,Developing,73.5,132,1,4.23,224.3212014,94,2,51.2,1,96,4.56,94,0.1,3218.381655,2800000,2,2.1,0.72,12.3,Western Asia,Western Asia and Northern Africa,27.27
+Australia,2000,Developed,79.5,78,1,10.17,347.18736,,108,58.2,2,9,8.8,9,0.1,2169.921,23000000,0.7,0.7,0.897,20.4,Australia and New Zealand,Australia and New Zealand,110.73
+Australia,2010,Developed,81.9,64,1,10.52,8875.786493,92,70,63.9,1,92,9.2,92,0.1,51874.848,19000000,0.7,0.6,0.927,19.5,Australia and New Zealand,Australia and New Zealand,85.12
+Austria,2000,Developed,78.1,96,0,13.2,3557.455507,33,0,5.1,0,71,1.6,81,0.1,24517.26745,8300000,1.7,1.9,0.833,15.4,Western Europe,Northern America and Europe,71.39
+Austria,2010,Developed,84,75,0,12.1,7423.228774,86,52,55.2,0,86,11.17,86,0.1,46657.629,7800000,1.7,1.9,0.872,15.4,Western Europe,Northern America and Europe,58.72
+Azerbaijan,2000,Developing,66.6,16,9,0.65,35.09462644,,210,42.1,11,75,4.67,76,0.1,655.974326,9000000,3.2,3.1,0.636,10.1,Western Asia,Western Asia and Northern Africa,6.3
+Azerbaijan,2010,Developing,71.1,13,5,1.98,246.5686008,8,0,48,6,85,5.33,81,0.1,5842.85784,8500000,2.8,2.9,0.737,11.7,Western Asia,Western Asia and Northern Africa,3.9
+Bahrain,2000,Developing,74.5,92,0,2.15,167.7270642,97,6,54.5,0,97,3.51,97,0.1,13636.34668,950000,6.2,6,0.786,13.2,Western Asia,Western Asia and Northern Africa,32.7
+Bahrain,2010,Developing,76.1,73,0,1.93,266.7696122,99,0,6.1,0,99,3.64,99,0.1,2722.1389,850000,6,5.9,0.81,14.4,Western Asia,Western Asia and Northern Africa,11.27
+Bangladesh,2000,Developing,65.3,173,231,0.01,3.69633051,,5098,1.4,316,83,2.33,82,0.1,45.63371,150000000,2.9,21.5,0.459,7.3,Southern Asia,Central and Southern Asia,9.37
+Bangladesh,2010,Developing,69.9,142,126,0.01,62.65945432,94,788,15.2,161,94,3.6,94,0.1,757.6717572,140000000,18.9,19.4,0.535,8.9,Southern Asia,Central and Southern Asia,4.87
+Belarus,2000,Developing,68,247,1,12.98,24.24947846,7,21,54.4,1,99,6.13,99,0.1,1276.28834,11500000,2.7,2.8,0.675,13.1,Eastern Europe,Northern America and Europe,56.24
+Belarus,2010,Developing,73,222,0,14.44,8.49409518,96,1,59.3,1,99,5.55,98,0.1,63.38877,10000000,2,2.2,0.78,15.5,Eastern Europe,Northern America and Europe,47.41
+Belgium,2000,Developed,77.6,11,1,11.21,287.2084529,6,0,58.1,1,96,8.12,95,0.1,2327.4591,11000000,0.8,0.8,0.869,18,Western Europe,Northern America and Europe,46.24
+Belgium,2010,Developed,80,81,0,10.22,665.7356115,97,40,61.9,1,98,1.17,98,0.1,4438.23741,10200000,0.9,0.9,0.878,15.9,Western Europe,Northern America and Europe,58.47
+Belize,2000,Developing,68.3,196,0,4.79,219.0239836,76,0,4.8,0,91,3.98,91,0.3,3364.423711,250000,3.8,3.7,0.668,11.7,Central America,Latin America and the Caribbean,576.26
+Belize,2010,Developing,69.5,186,0,6.76,569.9527122,96,0,47,0,96,5.85,96,0.2,4344.15177,200000,3.5,3.4,0.7,12.4,Central America,Latin America and the Caribbean,275.77
+Benin,2000,Developing,55.4,279,25,1.34,37.38182018,,4244,18.4,40,78,4.34,78,2,374.1923942,9200000,9.7,9.6,0.389,6.4,Western Africa,Sub-Saharan Africa,47.89
+Benin,2010,Developing,58.7,254,25,1.33,94.25737917,76,392,23,39,77,4.95,76,1.4,757.695974,8500000,7.8,7.6,0.451,9.5,Western Africa,Sub-Saharan Africa,30.38
+Bolivia,2000,Developing,62.6,243,15,2.32,0,77,122,42.6,20,74,5.67,75,0.1,,8000000,1.5,1.4,0.6,13.3,South America,Latin America and the Caribbean,2.52
+Bolivia,2010,Developing,68.7,22,9,3.95,0,91,0,49.3,12,9,5.44,91,0.2,,7500000,1.2,1.1,0.643,13.8,South America,Latin America and the Caribbean,2.74
+Bosnia and Herzegovina,2000,Developing,74.6,116,0,3.64,165.6168642,,43,47.6,0,87,7.9,85,0.1,1461.7552,6000000,3.3,3.2,0,0,Southern Europe,Northern America and Europe,76.49
+Bosnia and Herzegovina,2010,Developing,76.4,94,0,4.54,630.3883564,89,45,53.1,0,9,9.58,89,0.1,4611.47298,5500000,2.6,2.6,0.717,13.3,Southern Europe,Northern America and Europe,89.22
+Botswana,2000,Developing,47.8,647,2,5.37,250.8916484,86,2672,29.9,4,97,4.64,97,38.8,3349.68823,1800000,12.3,12.2,0.559,11.7,Southern Africa,Sub-Saharan Africa,12.55
+Botswana,2010,Developing,61.1,349,2,5.99,547.0386679,95,853,35.2,3,96,5.64,95,6.2,6346.15624,1600000,8,7.8,0.669,12.3,Southern Africa,Sub-Saharan Africa,5.74
+Brazil,2000,Developing,75,183,111,7.26,179.4777293,94,36,43.7,127,99,7.3,98,0.1,3739.11936,220000000,3.4,3.4,0.677,14.1,South America,Latin America and the Caribbean,19.5
+Brazil,2010,Developing,73.8,154,54,7.52,1111.191325,96,68,52,61,99,8.27,99,0.1,11224.1548,175000000,2.9,2.9,0.716,13.8,South America,Latin America and the Caribbean,11.85
+Bulgaria,2000,Developed,71.1,163,1,9.69,15.2357274,94,46,57,1,94,6.7,93,0.1,169.28586,7500000,2.5,2.5,0.709,12.9,Eastern Europe,Northern America and Europe,22.39
+Bulgaria,2010,Developed,73.4,147,1,10.8,766.4454884,95,22004,62.7,1,94,7.24,94,0.1,6843.263289,8000000,2,2,0.77,13.9,Eastern Europe,Northern America and Europe,25.95
+Burkina Faso,2000,Developing,51,348,48,3.71,19.83929597,,6074,12.2,92,45,5.6,45,4,226.4759814,17000000,11.4,11.1,0,3.4,Western Africa,Sub-Saharan Africa,4.01
+Burkina Faso,2010,Developing,57.5,279,43,4.55,90.46018236,91,2511,16.6,74,9,7.17,91,1,575.4464527,14000000,9,8.6,0.365,6.3,Western Africa,Sub-Saharan Africa,3.84
+Cambodia,2000,Developing,57.7,274,27,1.51,0.328418056,,12237,12.1,36,62,5.87,59,2.1,3.685949,15000000,11.6,11.9,0.401,7.2,South-eastern Asia,Eastern and South-eastern Asia,67.91
+Cambodia,2010,Developing,66.6,192,14,2.2,56.88416481,89,1156,16.4,16,88,5.95,89,0.5,785.6928841,13000000,11,11.3,0.519,10.6,South-eastern Asia,Eastern and South-eastern Asia,56.65
+Canada,2000,Developing,79.1,82,2,7.6,3787.49456,,206,57.8,2,88,8.67,89,0.1,24124.16917,34000000,0.5,0.5,0.864,15.9,Northern America,Northern America and Europe,95.73
+Canada,2010,Developing,81.2,7,2,8.4,8649.674911,56,99,64.1,2,88,11.2,89,0.1,47447.4762,31000000,0.5,0.4,0.898,15.9,Northern America,Northern America and Europe,80.78
+Central African Republic,2000,Developing,46,49,16,1.51,30.78382657,,3207,16.5,25,38,4.24,37,14.3,243.5429317,4500000,1.5,1.5,0.312,5.2,Middle Africa,Sub-Saharan Africa,104.67
+Central African Republic,2010,Developing,49.2,446,17,1.67,43.48359197,45,2,2.2,24,46,3.9,45,6.6,446.4434494,3800000,9,8.9,0.352,6.6,Middle Africa,Sub-Saharan Africa,67.33
+Chad,2000,Developing,47.6,44,41,0.25,21.52701616,,3546,13.9,74,3,6.28,36,4.6,166.231785,11000000,11.5,11.4,0,4.7,Middle Africa,Sub-Saharan Africa,4.92
+Chad,2010,Developing,51.2,364,46,0.5,43.57328908,39,194,17.1,80,43,2.95,39,4.1,896.5697341,9000000,9.4,9.3,0.36,6.7,Middle Africa,Sub-Saharan Africa,4.61
+Chile,2000,Developing,77.3,13,2,6.24,74.14842946,,0,54,3,91,6.4,91,0.1,511.368479,18000000,1.1,1.1,0.755,13.5,South America,Latin America and the Caribbean,10.97
+Chile,2010,Developing,79.1,89,2,7.93,177.4925143,92,0,6.6,2,92,6.97,92,0.1,1286.17764,16000000,0.8,0.9,0.815,15.2,South America,Latin America and the Caribbean,5.93
+China,2000,Developing,71.7,115,490,3.06,17.46057369,6,71093,2.5,608,86,4.6,85,0.1,959.372181,1340000000,5.9,5.1,0.583,9.5,Eastern Asia,Eastern and South-eastern Asia,60.58
+China,2010,Developing,75,92,231,5.75,5.660754839,99,38159,28.1,268,99,4.89,99,0.1,456.512487,1260000000,4.2,3.6,0.691,12.5,Eastern Asia,Eastern and South-eastern Asia,42.4
+Colombia,2000,Developing,71.4,167,18,4.66,477.1341814,78,1,46.7,21,82,5.91,79,0.1,2472.197831,45000000,2.6,2.3,0.65,11.3,South America,Latin America and the Caribbean,13.88
+Colombia,2010,Developing,73.6,15,12,4.28,113.2436346,88,0,54.2,15,88,6.76,88,0.1,625.65544,42000000,2.2,2,0.695,12.8,South America,Latin America and the Caribbean,9.49
+Costa Rica,2000,Developing,77.6,98,1,4.34,94.17819458,89,0,45.4,1,8,7.12,88,0.1,388.363689,4800000,2.4,2.3,0.702,11.6,Central America,Latin America and the Caribbean,131.31
+Costa Rica,2010,Developing,78.1,16,1,3.58,2377.010299,89,0,55.5,1,93,9.66,88,0.1,8199.414621,4300000,1.8,1.8,0.749,13.3,Central America,Latin America and the Caribbean,86.61
+Côte d’Ivoire,2000,Developing,47.9,461,67,3.45,0,,5729,19.4,95,66,6,65,7.1,,21000000,8.1,8.1,,,Western Africa,Sub-Saharan Africa,36.99
+Côte d’Ivoire,2010,Developing,51.5,417,60,3.15,0,85,441,25,84,81,6.32,85,3.3,,18000000,6.3,6.2,,,Western Africa,Sub-Saharan Africa,50.79
+Croatia,2000,Developed,74.7,127,0,12.73,649.3909871,,9,54.7,0,94,7.66,93,0.1,4919.62869,4300000,2.1,2.1,0.739,12.2,Southern Europe,Northern America and Europe,67.65
+Croatia,2010,Developed,76.6,16,0,12.1,206.8868182,97,7,6.6,0,97,8.25,97,0.1,1355.74586,4500000,1.6,1.6,0.803,14.2,Southern Europe,Northern America and Europe,61.41
+Cuba,2000,Developing,76.9,115,1,3.92,49.34007756,98,0,49.4,1,98,6.7,95,0.1,2741.11542,11200000,3.6,3.4,0.679,12.1,Caribbean,Latin America and the Caribbean,10.25
+Cuba,2010,Developing,78,98,1,4.13,787.2808163,96,0,57.7,1,99,1.19,96,0.1,5676.14143,11000000,3.4,3.2,0.784,17.6,Caribbean,Latin America and the Caribbean,10.69
+Cyprus,2000,Developed,78.1,7,0,9.56,950.8027925,89,0,52.8,0,97,5.77,97,0.1,14672.8826,1100000,0.9,1,0.798,12.5,Western Asia,Western Asia and Northern Africa,7.12
+Cyprus,2010,Developed,79.5,59,0,11.32,283.3300258,96,18,57.8,0,99,7.23,99,0.1,3818.46396,1000000,0.9,1,0.853,14.6,Western Asia,Western Asia and Northern Africa,6.82
+Czechia,2000,Developed,74.7,126,0,13.22,0,,9,59,0,98,6.31,98,0.1,,10500000,2.3,2.3,,,Eastern Europe,Northern America and Europe,48.2
+Czechia,2010,Developed,77.5,99,0,12.69,0,99,0,63.6,0,99,7.43,99,0.1,,10200000,1.9,2,,,Eastern Europe,Northern America and Europe,52.11
+North Korea,2000,Developing,65.4,192,18,3.52,0,,0,25.2,25,93,,56,0.1,,24500000,6,6,,,Eastern Asia,Eastern and South-eastern Asia,2.13
+North Korea,2010,Developing,69,157,8,3.12,0,93,0,3.3,10,99,,93,0.1,,23000000,5.2,5.2,,,Eastern Asia,Eastern and South-eastern Asia,2.19
+Democratic Republic of the Congo,2000,Developing,51.3,346,226,1.98,0,,8282,14.9,332,42,1.45,4,2.5,,67000000,12.4,12.3,,,Middle Africa,Sub-Saharan Africa,97.22
+Democratic Republic of the Congo,2010,Developing,57.4,283,239,1.81,0,6,5407,19.1,321,76,4.4,6,1.6,,54000000,1.4,1.2,,,Middle Africa,Sub-Saharan Africa,44.45
+Denmark,2000,Developed,76.9,12,0,11.69,508.7496912,,14,52.2,0,97,8.7,97,0.1,3743.55917,5500000,1.3,1,0.86,16.5,Northern Europe,Northern America and Europe,81.96
+Denmark,2010,Developed,79.2,84,0,10.28,954.4865933,,5,57,0,9,11.8,9,0.1,5841.41122,5200000,1.1,0.9,0.906,16.8,Northern Europe,Northern America and Europe,62.27
+Djibouti,2000,Developing,57.4,325,2,1.34,91.95075901,,183,28.2,2,46,5.75,46,4.1,768.176767,800000,6.4,6.1,0.361,2.9,Eastern Africa,Sub-Saharan Africa,1.63
+Djibouti,2010,Developing,61.3,273,1,0.44,187.4960097,88,7,32.2,2,88,8.84,88,3.1,1325.99724,650000,5.6,5.6,0.441,5.5,Eastern Africa,Sub-Saharan Africa,0.67
+Dominican Republic,2000,Developing,72,176,7,6.58,44.79247812,68,253,43.1,9,71,5.9,78,2.5,282.4242,10000000,3.8,3.7,0.651,12.2,Caribbean,Latin America and the Caribbean,69.65
+Dominican Republic,2010,Developing,72.7,166,6,6.02,664.5585242,83,0,53.6,8,85,4.6,88,0.9,5451.6696,8600000,3.3,3.3,0.697,12.9,Caribbean,Latin America and the Caribbean,43.71
+Egypt,2000,Developing,68.8,171,65,0.14,0,98,2633,5.7,82,98,5.55,98,0.1,,82000000,3.6,3.5,0.606,11,Northern Africa,Western Asia and Northern Africa,22.74
+Egypt,2010,Developing,70,173,54,0.22,0,97,16,57,64,97,4.8,97,0.1,,68000000,3,2.9,0.665,12.2,Northern Africa,Western Asia and Northern Africa,16.08
+El Salvador,2000,Developing,69,218,4,2.79,353.6690328,99,0,45.3,5,98,8.17,99,0.4,2238.4116,6200000,2.1,2,0.607,11.3,Central America,Latin America and the Caribbean,44.69
+El Salvador,2010,Developing,72,191,2,2.36,469.3904193,89,0,52.8,2,89,6.91,89,0.3,3474.392445,5700000,1.7,1.6,0.662,12.9,Central America,Latin America and the Caribbean,61.48
+Eritrea,2000,Developing,45.3,593,7,0.83,0.735940361,,789,12.6,10,82,4.43,81,1.9,28.1969487,5400000,1.2,1.1,0,3.9,Eastern Africa,Sub-Saharan Africa,6.11
+Eritrea,2010,Developing,62.1,298,6,0.61,17.35739784,9,51,16,9,9,3.24,9,0.9,482.14994,4400000,8.9,8.8,0.404,5.1,Eastern Africa,Sub-Saharan Africa,7.49
+Ethiopia,2000,Developing,51.2,391,253,0.88,11.59481766,,1660,12.3,404,55,4.36,3,5,123.876257,88000000,11.9,11.8,0,3.9,Eastern Africa,Sub-Saharan Africa,6.15
+Ethiopia,2010,Developing,61.8,261,162,1.34,67.73374413,62,4235,15.6,243,69,6.86,61,1.7,341.39992,67000000,11,1.7,0.401,8.1,Eastern Africa,Sub-Saharan Africa,4.09
+Finland,2000,Developing,77.5,15,0,8.59,397.7533689,,0,55.5,0,96,7.22,99,0.1,24253.2542,5400000,0.9,0.9,0.847,17.3,Northern Europe,Northern America and Europe,60.57
+Finland,2010,Developing,79.9,89,0,9.72,591.6691405,,5,6.2,0,99,9.5,99,0.1,4622.41516,5200000,0.9,0.8,0.874,16.8,Northern Europe,Northern America and Europe,47.67
+France,2000,Developing,78.8,13,3,13.63,3410.284431,26,10000,54.6,4,98,9.77,97,0.1,22465.64184,65000000,0.7,0.6,0.844,15.7,Western Europe,Northern America and Europe,31.44
+France,2010,Developing,81.3,86,3,11.7,72.8001211,65,5048,6.1,3,99,11.2,99,0.1,473.34279,60000000,0.6,0.6,0.879,16,Western Europe,Northern America and Europe,36.45
+Germany,2000,Developed,78,95,3,12.91,4238.540035,84,0,55.1,4,94,1.1,9,0.1,23718.7467,82000000,1.2,1.2,0.855,16.2,Western Europe,Northern America and Europe,70.65
+Germany,2010,Developed,81,76,2,11.2,7584.078579,88,780,59.9,3,94,11.25,95,0.1,41785.55691,82000000,1.1,1.1,0.907,16.7,Western Europe,Northern America and Europe,49.94
+Ghana,2000,Developing,57.2,38,43,1.6,20.65432873,,23068,19.5,65,88,3,88,3.6,263.1124679,25000000,9.2,9.2,0.48,7.7,Western Africa,Sub-Saharan Africa,30.9
+Ghana,2010,Developing,69,267,40,1.69,195.9824626,94,641,25.5,59,94,5.33,94,1.9,1312.67557,20000000,7.1,7,0.547,10.5,Western Africa,Sub-Saharan Africa,11.69
+Greece,2000,Developing,78.2,84,1,8.48,122.1823517,89,56,57.4,1,89,7.6,89,0.1,1242.95373,11000000,0.9,0.8,0.794,13.9,Southern Europe,Northern America and Europe,1.9
+Greece,2010,Developing,83,76,0,9,3189.754439,95,149,63.7,0,99,9.18,99,0.1,26917.75898,10500000,0.8,0.7,0.859,16.4,Southern Europe,Northern America and Europe,2.85
+Guatemala,2000,Developing,67.7,221,17,2.63,238.7369808,,0,4.4,21,8,5.25,81,0.2,1655.596261,14000000,1.6,1.6,0.539,8.2,Central America,Latin America and the Caribbean,91.85
+Guatemala,2010,Developing,77,196,12,2.14,443.3248254,94,0,47.2,14,94,6.64,94,0.4,2825.5247,11000000,1.3,1.3,0.602,10.5,Central America,Latin America and the Caribbean,72.16
+Guinea,2000,Developing,52.5,328,37,0.17,2.215986136,,11294,16.6,60,47,3.46,46,3,34.516918,10500000,1.3,1.3,0.316,4.8,Western Africa,Sub-Saharan Africa,56.86
+Guinea,2010,Developing,57.8,291,29,0.2,29.74734049,64,45,2.8,44,62,4.55,64,2.2,438.7513346,8200000,8.2,8.2,0.38,8.3,Western Africa,Sub-Saharan Africa,42.38
+Guinea-Bissau,2000,Developing,52.1,3,5,2.84,6.699418747,,0,17.4,9,52,4.94,49,3.1,297.7519443,1600000,1.2,1.2,0,6.4,Western Africa,Sub-Saharan Africa,106.45
+Guinea-Bissau,2010,Developing,56.7,287,4,3.21,53.30782696,83,26,23.1,7,82,6.7,83,5.9,543.957418,1200000,8,7.9,0.405,8.9,Western Africa,Sub-Saharan Africa,52.57
+Honduras,2010,Developing,73.6,156,4,3.1,302.1057507,97,0,46.8,5,97,8.45,97,0.4,1932.85829,8000000,2.3,2.2,0.606,11.5,Central America,Latin America and the Caribbean,40.63
+Honduras,2000,Developing,71,174,6,2.61,28.80831098,93,0,38.8,8,88,6.63,94,1.7,188.783165,6400000,2.8,2.7,0.551,9.8,Central America,Latin America and the Caribbean,62.06
+Hungary,2010,Developed,74.5,156,0,10.78,19.22023996,,0,61.7,1,99,7.85,99,0.1,1325.53379,10000000,1.8,1.8,0.817,15.3,Eastern Europe,Northern America and Europe,89.87
+Hungary,2000,Developed,71.7,193,1,12.22,75.36251406,,1,56.1,1,99,7.6,99,0.1,4623.46712,10200000,2.3,2.3,0.761,13.9,Eastern Europe,Northern America and Europe,80.01
+India,2010,Developing,66.4,196,1200,2.77,57.73359864,38,31458,15.9,1600,76,4.28,79,0.2,1345.77153,1230000000,27,27.8,0.569,10.4,Southern Asia,Central and Southern Asia,3.88
+India,2000,Developing,62.5,224,1800,0.93,19.26615743,,38835,11.4,2500,57,4.26,58,0.3,438.864634,1050000000,27.7,28.6,0.489,8.3,Southern Asia,Central and Southern Asia,7.67
+Indonesia,2010,Developing,68.1,187,138,0.08,190.5453646,83,18869,22.9,167,82,2.74,81,0.3,3113.48635,240000000,1.6,1.5,0.656,12.1,South-eastern Asia,Eastern and South-eastern Asia,74.01
+Indonesia,2000,Developing,66.3,188,187,0.06,3.43334364,65,3344,15.4,237,72,1.98,75,0.1,78.92744,210000000,11,11.2,0.597,10.7,South-eastern Asia,Eastern and South-eastern Asia,104.18
+Iran,2010,Developing,74.1,16,22,0.03,0,99,538,53.6,26,99,8.2,99,0.1,,75000000,7.8,8,0.735,12.9,Southern Asia,Central and Southern Asia,3.88
+Iran,2000,Developing,73,15,35,0.01,0,99,11874,44.9,43,99,4.47,99,0.1,,65000000,7.8,7.9,0.66,11.6,Southern Asia,Central and Southern Asia,4.39
+Iraq,2010,Developing,76,145,32,0.19,21.82252494,72,492,55.8,39,74,3.82,74,0.1,452.74948,31000000,5.3,5.1,0.646,10.4,Western Asia,Western Asia and Northern Africa,3.4
+Iraq,2000,Developing,70,144,30,0.2,0,67,726,49.5,37,83,,8,0.1,,25000000,5.6,5.4,0.603,8.6,Western Asia,Western Asia and Northern Africa,4.71
+Ireland,2010,Developed,86,68,0,11.88,4509.234803,46,443,58.9,0,94,8.76,94,0.1,48538.58776,4500000,0.3,0.2,0.907,18.2,Northern Europe,Northern America and Europe,62.47
+Ireland,2000,Developed,76.4,94,0,14.07,3794.581463,,0,51.5,0,86,6.3,86,0.1,26241.91883,3900000,0.3,0.3,0.848,16.2,Northern Europe,Northern America and Europe,81.59
+Israel,2010,Developing,81.7,61,1,2.63,409.4109292,97,23,63,1,95,7.36,95,0.1,3661.994,7700000,1.2,1.1,0.878,15.7,Western Asia,Western Asia and Northern Africa,3.19
+Israel,2000,Developing,78.9,76,1,2.53,199.9341033,98,36,58.3,1,93,7.13,93,0.1,2152.1432,6500000,1.1,1.1,0.845,15.2,Western Asia,Western Asia and Northern Africa,8.37
+Italy,2010,Developed,81.8,6,2,6.95,5219.668802,96,372,61,2,96,9.42,96,0.1,35849.37364,60000000,0.5,0.5,0.869,16.4,Southern Europe,Northern America and Europe,27.13
+Italy,2000,Developed,79.4,77,3,9.78,31.50582204,94,1457,55,3,97,7.91,87,0.1,251.2426,57000000,0.5,0.5,0.823,14.8,Southern Europe,Northern America and Europe,27.54
+Japan,2010,Developed,83,62,3,6.9,863.0061491,,450,26.9,4,98,9.58,97,0.1,4457.67639,128000000,1.9,1.6,0.879,15.1,Eastern Asia,Eastern and South-eastern Asia,11.16
+Japan,2000,Developed,81.1,74,4,7.97,5926.296654,,22497,22.2,5,98,7.53,85,0.1,38532.488,127000000,1.6,1.4,0.852,14.5,Eastern Asia,Eastern and South-eastern Asia,13.39
+Jordan,2010,Developing,73.4,117,4,0.51,715.9709092,98,0,61.7,4,98,8.42,98,0.1,3679.19275,6700000,3.8,3.8,0.739,13.2,Western Asia,Western Asia and Northern Africa,4.41
+Jordan,2000,Developing,71.7,133,4,0.49,227.296617,93,32,54,4,94,9.65,91,0.1,1657.889256,5200000,4,4,0.7,12.6,Western Asia,Western Asia and Northern Africa,4.44
+Kazakhstan,2010,Developing,67.8,236,7,6.83,11.1516268,99,4,49.2,8,98,4.42,99,0.1,97.649972,17000000,2.3,2.5,0.763,14.5,Central Asia,Central and Southern Asia,13.52
+Kazakhstan,2000,Developing,63.9,292,9,6,112.541157,99,245,43.9,10,96,4.16,97,0.1,1229.958,15000000,2.7,2.7,0.676,12.1,Central Asia,Central and Southern Asia,20.27
+Kenya,2010,Developing,63,294,61,1.73,56.58984221,9,95,18.9,89,9,3.97,9,4.3,967.34773,42000000,8.2,8,0.523,11.1,Eastern Africa,Sub-Saharan Africa,3.91
+Kenya,2000,Developing,51.9,428,77,1.51,0.681685555,,21002,14.4,121,8,4.68,82,18.1,43.9797132,32000000,9.2,9.1,0.448,8.4,Eastern Africa,Sub-Saharan Africa,9.76
+Kuwait,2010,Developing,74,86,1,0.01,2009.575605,99,13,68.4,1,98,2.76,98,0.1,38497.61696,2900000,3.3,3.2,0.79,13.5,Western Asia,Western Asia and Northern Africa,0.59
+Kuwait,2000,Developing,73.2,96,0,0.01,959.925862,95,6,64,1,94,2.51,98,0.1,18389.38433,2200000,3.2,3.1,0.786,14.1,Western Asia,Western Asia and Northern Africa,1.53
+Kyrgyzstan,2010,Developing,68.8,199,4,2.73,0,96,0,4.7,4,88,6.66,96,0.1,,5500000,3.2,3.3,0.631,12.2,Central Asia,Central and Southern Asia,16.56
+Kyrgyzstan,2000,Developing,66.6,225,4,2.13,0,44,16,35.6,5,99,4.68,99,0.1,,4800000,3.6,3.6,0.586,11.4,Central Asia,Central and Southern Asia,38.63
+Latvia,2010,Developed,72.8,18,0,9.8,1109.969508,91,0,58.9,0,92,6.55,92,0.1,11326.21947,2000000,2.2,2.3,0.815,16,Northern Europe,Northern America and Europe,37.67
+Latvia,2000,Developed,71,218,0,7.13,291.0170765,95,0,55.4,0,96,6,96,0.1,3352.731296,2300000,2.8,2.8,0.716,13.7,Northern Europe,Northern America and Europe,26.75
+Lebanon,2010,Developing,74.9,94,1,1.58,805.3956346,81,12,63.5,1,75,7.19,81,0.1,8763.826274,4300000,4.7,4.7,0.752,13.3,Western Asia,Western Asia and Northern Africa,7.86
+Lebanon,2000,Developing,72.7,112,1,2.26,404.3879434,83,5,57.9,1,83,1.86,83,0.1,5334.93329,4000000,4.9,4.8,0,14.9,Western Asia,Western Asia and Northern Africa,7.58
+Liberia,2010,Developing,59.7,272,9,3.64,41.91052416,47,2200,24.5,13,71,11.87,7,1.8,327.42597,3800000,7.4,7.2,0.403,9.6,Western Africa,Sub-Saharan Africa,76.04
+Liberia,2000,Developing,51.9,39,14,4.46,12.19709744,,5977,2.2,20,56,5.91,46,3.1,183.4149991,3200000,9.2,9.2,0.338,8.7,Western Africa,Sub-Saharan Africa,140.83
+Libya,2010,Developing,72.8,132,2,0.01,52.50394196,98,0,59.9,2,98,3.5,98,0.1,1212.56217,6500000,5.6,5.4,0.755,14.3,Northern Africa,Western Asia and Northern Africa,16.16
+Libya,2000,Developing,78,148,3,0.01,457.3202236,92,0,52.8,3,94,3.41,94,0.1,7145.628494,5800000,5.7,5.5,0.727,15.5,Northern Africa,Western Asia and Northern Africa,52.33
+Lithuania,2010,Developed,72.4,188,0,12.9,1423.802386,94,2,6,0,95,7.9,95,0.1,11984.86857,3500000,2.8,2.8,0.824,16.8,Northern Europe,Northern America and Europe,101.85
+Lithuania,2000,Developed,71.6,2,0,9.87,373.2605532,98,19,56.9,0,92,6.46,94,0.1,3297.35471,3800000,3.4,3.4,0.745,14,Northern Europe,Northern America and Europe,95.28
+Luxembourg,2010,Developed,86,73,0,11.36,2267.252192,94,0,59.2,0,96,7.68,99,0.1,14965.361,520000,0.9,0.9,0.884,13.7,Western Europe,Northern America and Europe,76.99
+Luxembourg,2000,Developed,77.8,98,0,13.14,8246.130437,77,0,54,0,99,7.48,99,0.1,48735.99549,460000,1,1,0.848,13.5,Western Europe,Northern America and Europe,118.17
+Madagascar,2010,Developing,63.3,248,32,1.03,76.60442169,7,1,18,45,7,4.86,7,0.5,412.739341,21000000,7.6,7.5,0.503,10.2,Eastern Africa,Sub-Saharan Africa,29.8
+Madagascar,2000,Developing,57.9,283,44,1.16,35.66125056,,35256,13.9,68,58,5.8,57,0.6,245.939659,18000000,8.7,8.6,0,8,Eastern Africa,Sub-Saharan Africa,56.38
+Malawi,2010,Developing,52.9,462,35,1.08,9.728005297,93,118712,17.6,54,86,1.5,93,13.7,458.8681744,15000000,6.8,6.7,0.43,10.2,Eastern Africa,Sub-Saharan Africa,26.08
+Malawi,2000,Developing,43.1,588,51,1.18,13.76270195,,304,14.1,84,73,6.7,75,25.5,153.2594872,12000000,8,7.9,0.391,10.7,Eastern Africa,Sub-Saharan Africa,45.35
+Malaysia,2010,Developing,74.1,131,3,0.49,65.56659662,96,73,35.3,4,96,3.99,96,0.1,971.356987,29000000,8.2,8,0.764,12.8,South-eastern Asia,Eastern and South-eastern Asia,32.66
+Malaysia,2000,Developing,72.4,149,4,0.54,23.37167228,97,6187,26,5,98,3.4,98,0.1,445.17471,24000000,9.8,9.6,0.715,11.6,South-eastern Asia,Eastern and South-eastern Asia,71.28
+Mali,2010,Developing,56.5,273,54,0.6,9.585584394,72,1719,2.7,91,77,6.35,73,1.5,78.377632,14000000,8.8,8.5,0.396,7.3,Western Africa,Sub-Saharan Africa,4.09
+Mali,2000,Developing,49.8,37,60,0.47,23.94507124,,1578,15.6,111,53,6.29,43,2.5,269.3483829,11000000,11,1.9,0.291,4.4,Western Africa,Sub-Saharan Africa,10.6
+Malta,2010,Developed,83,62,0,7.91,278.0687051,75,0,67.6,0,76,8.3,76,0.1,2187.79469,410000,0.8,0.7,0.819,14.6,Southern Europe,Northern America and Europe,3.63
+Malta,2000,Developed,77.5,8,0,5.59,134.3547253,,2,62.3,0,94,6.83,94,0.1,1139.5651,390000,0.8,0.7,0.779,13.8,Southern Europe,Northern America and Europe,1.32
+Mauritania,2010,Developing,62,214,8,0.01,8.353074798,64,1292,27.4,12,52,3.28,64,1.2,123.383675,3300000,8.7,8.5,0.484,7.6,Western Africa,Sub-Saharan Africa,1.37
+Mauritania,2000,Developing,60,23,7,0.03,8.594570232,,0,21.1,11,58,5.26,51,1.1,477.476124,2700000,1.9,1.7,0.443,6.4,Western Africa,Sub-Saharan Africa,1.31
+Mexico,2010,Developing,75.6,127,35,5.21,1033.039737,93,0,6.1,40,95,6.39,95,0.1,8959.581416,115000000,1.6,1.6,0.739,12.5,Central America,Latin America and the Caribbean,57.21
+Mexico,2000,Developing,74.8,129,55,4.99,10.22840118,97,30,52.4,66,97,4.98,97,0.1,672.92113,98000000,2,1.9,0.694,11.4,Central America,Latin America and the Caribbean,102.72
+Morocco,2010,Developing,72.8,11,20,0.56,183.6592186,98,633,53.6,23,99,5.86,99,0.1,2834.2472,33000000,6.3,6.2,0.603,10.7,Northern Africa,Western Asia and Northern Africa,3.75
+Morocco,2000,Developing,68.6,16,27,0.45,63.42140024,43,7368,44.8,32,95,4.18,95,0.1,1332.382358,30000000,6.7,6.6,0.519,8,Northern Africa,Western Asia and Northern Africa,4.44
+Mozambique,2010,Developing,54,47,69,0.96,5.743393664,74,2321,2.5,98,73,5.38,74,10.8,419.2258149,22000000,3.7,3.6,0.39,9.3,Eastern Africa,Sub-Saharan Africa,36.4
+Mozambique,2000,Developing,49,43,93,1.14,47.17250718,,7375,16.5,136,69,6.16,7,12.2,277.6486591,18000000,4.2,4.1,0.291,5.4,Eastern Africa,Sub-Saharan Africa,47.93
+Myanmar,2010,Developing,65.4,29,49,0.3,17.48293752,92,190,19.8,65,9,1.92,9,0.5,987.7365832,50000000,13.1,13.3,0.515,8.8,South-eastern Asia,Eastern and South-eastern Asia,31.52
+Myanmar,2000,Developing,62.1,243,73,0.35,2.511437292,,845,13.6,100,88,1.84,82,0.4,193.187484,45000000,13.3,13.7,0.417,7.5,South-eastern Asia,Eastern and South-eastern Asia,37.02
+Namibia,2010,Developing,63,299,3,7.58,719.5535161,83,3138,31.8,4,83,7.89,83,6.2,5191.58381,2200000,1.4,1.4,0.604,11.4,Southern Africa,Sub-Saharan Africa,13.14
+Namibia,2000,Developing,57.4,41,3,5.73,35.80978512,,469,24.5,4,8,6.11,79,22.8,257.99557,1800000,15.7,15.9,0.559,11.5,Southern Africa,Sub-Saharan Africa,10.01
+Nepal,2010,Developing,68,178,23,0.24,84.62302524,82,190,16.4,30,83,6.43,82,0.2,592.1835216,30000000,16.7,17.2,0.515,11.1,Southern Asia,Central and Southern Asia,9.39
+Nepal,2000,Developing,62.5,238,46,0.08,17.9123368,,9397,11.4,62,74,5.43,74,0.1,231.42554,23000000,18.5,19.2,0.439,8.9,Southern Asia,Central and Southern Asia,13.53
+Netherlands,2010,Developed,88,64,1,9.33,1035.621437,,15,59.3,1,97,1.48,97,0.1,5338.25483,17000000,1,0.9,0.906,17,Western Europe,Northern America and Europe,29.48
+Netherlands,2000,Developed,78.1,84,1,10.06,2944.640134,,1019,51.8,1,97,7.42,97,0.1,25921.12794,16000000,1.1,1.1,0.873,16.5,Western Europe,Northern America and Europe,35.24
+New Zealand,2010,Developed,89,71,0,9.62,6664.148708,9,43,64.8,0,93,11.2,93,0.1,33691.34837,4500000,0.3,0.3,0.899,20.3,Australia and New Zealand,Australia and New Zealand,92.83
+New Zealand,2000,Developed,78.6,87,0,8.91,2143.021083,9,65,58.9,0,82,7.47,9,0.1,13641.1272,4000000,0.3,0.3,0.864,17.2,Australia and New Zealand,Australia and New Zealand,123.49
+Nicaragua,2010,Developing,73.2,154,3,3.38,302.7045411,98,0,5.2,3,99,6.58,98,0.1,1526.497938,5900000,1.9,1.8,0.614,11.4,Central America,Latin America and the Caribbean,25
+Nicaragua,2000,Developing,73,192,4,3.61,15.25518816,83,0,42.8,5,85,5.39,83,0.4,116.2743,5000000,2.2,2.1,0.562,10.1,Central America,Latin America and the Caribbean,23.57
+Niger,2010,Developing,58.2,252,50,0.12,5.883760536,7,372,17.3,95,75,6.36,7,0.9,348.151511,16000000,1.7,1.6,0.312,4.5,Western Africa,Sub-Saharan Africa,4.04
+Niger,2000,Developing,50,284,58,0.1,13.35783844,,21319,13.6,128,41,6.1,34,1.5,158.455972,12000000,12.8,12.9,0.253,2.8,Western Africa,Sub-Saharan Africa,9.13
+Nigeria,2010,Developing,52,374,521,8.9,133.1230872,49,8491,22.2,817,54,3.47,54,4.8,2327.3267,158000000,11.3,11.2,0.492,9.5,Western Africa,Sub-Saharan Africa,67.14
+Nigeria,2000,Developing,47.1,45,576,9.23,22.48177606,,212183,16.9,943,31,2.84,29,4.9,379.1193264,123000000,14.3,14.4,0,7.6,Western Africa,Sub-Saharan Africa,140.63
+Oman,2010,Developing,75.6,16,1,0.56,129.2260751,99,3,51.8,1,99,2.74,99,0.1,1928.74739,3100000,6.9,6.8,0.797,13.5,Western Asia,Western Asia and Northern Africa,23.83
+Oman,2000,Developing,72.6,138,1,0.38,62.86657508,99,15,45.9,1,99,3.7,99,0.1,861.18596,2600000,7.2,6.9,0,10.4,Western Asia,Western Asia and Northern Africa,28.39
+Pakistan,2010,Developing,65.1,172,372,0.04,0.66751505,82,4321,21.9,461,82,3.2,82,0.1,14.142268,170000000,2.2,2.7,0.521,7.5,Southern Asia,Central and Southern Asia,25.86
+Pakistan,2000,Developing,62.8,19,385,0.02,18.84534312,,2064,16.4,495,65,2.79,62,0.1,533.8624114,140000000,22.2,22.6,0.445,5.3,Southern Asia,Central and Southern Asia,42.16
+Panama,2010,Developing,76.5,122,1,6.94,1199.319976,94,0,54.2,2,95,8.5,94,0.1,7937.259931,3600000,2,1.9,0.756,12.8,Central America,Latin America and the Caribbean,48.7
+Panama,2000,Developing,75.7,121,2,5.58,9.87102142,,0,45.9,2,99,7.76,98,0.2,46.29935,2800000,2.4,2.3,0.716,12.1,Central America,Latin America and the Caribbean,61.13
+Paraguay,2010,Developing,73.2,152,3,5.65,359.9760397,89,0,46.4,3,85,9.1,89,0.1,3225.591754,6700000,2.1,2,0.664,12.4,South America,Latin America and the Caribbean,170.59
+Paraguay,2000,Developing,79,172,4,6.78,273.5758769,,0,39.1,5,86,8.1,86,0.1,1545.626423,5500000,2.5,2.4,0.625,11.6,South America,Latin America and the Caribbean,199.87
+Peru,2010,Developing,73.7,14,10,4.72,69.43934508,93,0,52.2,12,92,5.3,93,0.2,522.493191,29000000,1.1,1.1,0.708,13.3,South America,Latin America and the Caribbean,105.34
+Peru,2000,Developing,71.4,154,18,4.59,297.5112337,,1,45.4,24,93,4.83,98,0.5,1996.719689,25000000,1.4,1.4,0.674,13.5,South America,Latin America and the Caribbean,181.59
+Philippines,2010,Developing,67.9,218,58,4.85,198.2563794,77,6368,22.6,74,78,4.37,79,0.1,2129.499242,94000000,1,9.7,0.662,11.4,South-eastern Asia,Eastern and South-eastern Asia,29.66
+Philippines,2000,Developing,66.8,219,69,4.73,11.69704463,7,7120,17.8,90,74,3.21,78,0.1,138.91977,82000000,1,9.6,0.618,11.4,South-eastern Asia,Eastern and South-eastern Asia,23.7
+Poland,2010,Developed,76.3,13,2,10.59,220.4916851,98,13,58.4,2,96,6.88,99,0.1,12599.52486,38500000,2.1,2.2,0.822,15.1,Eastern Europe,Northern America and Europe,67.88
+Poland,2000,Developed,73.7,153,3,8.4,412.4323974,99,77,53.1,4,98,5.5,98,0.1,4492.72764,38500000,2.5,2.8,0.777,14.6,Eastern Europe,Northern America and Europe,69.17
+Portugal,2010,Developed,79.6,88,0,12.25,3119.349824,97,5,58.1,0,97,1.44,98,0.1,22538.6548,10500000,0.7,0.5,0.812,16,Southern Europe,Northern America and Europe,52.11
+Portugal,2000,Developed,76.6,11,1,11.89,167.3280168,58,45,5.1,1,96,9.14,96,0.1,1152.39681,10200000,0.8,0.6,0.777,15.5,Southern Europe,Northern America and Europe,38.63
+Qatar,2010,Developing,77.3,76,0,1.16,37.76848819,97,295,66,0,98,2.9,97,0.1,736.22784,2000000,5,4.6,0.825,12,Western Asia,Western Asia and Northern Africa,5.6
+Qatar,2000,Developing,76.2,88,0,0.5,1559.287158,89,46,62.4,0,91,2.18,8,0.1,29986.2915,800000,4.8,4.5,0.808,13,Western Asia,Western Asia and Northern Africa,11.14
+South Korea,2010,Developing,87,74,2,9.23,0,94,114,29.5,2,95,6.79,94,0.1,,49000000,1.5,1,,,Eastern Asia,Eastern and South-eastern Asia,108.25
+South Korea,2000,Developing,76,116,4,10.33,0,93,32647,24.7,4,99,4.23,97,0.1,,47000000,1.6,1.1,,,Eastern Asia,Eastern and South-eastern Asia,98.95
+Russia,2010,Developing,68.4,256,15,11.05,162.8088054,97,129,57.5,17,98,6.83,97,0.2,1674.98771,142000000,2.3,2.5,0.773,13.7,Eastern Europe,Northern America and Europe,38.93
+Russia,2000,Developing,78,300,17,13,150,98,150,70,20,99,7,97,0.2,1700,165000000,3,3,0.8,15,Eastern Europe,Northern America and Europe,30
+Saudi Arabia,2010,Developing,73.7,94,8,0.09,1197.946328,98,334,63.9,9,98,3.49,98,0.1,19259.58726,27000000,7.3,7.4,0.792,13.3,Western Asia,Western Asia and Northern Africa,0.61
+Saudi Arabia,2000,Developing,72.6,11,10,0.05,782.1799815,93,0,56.2,12,95,4.24,95,0.1,9126.954277,22000000,7.3,7.4,0.737,11.8,Western Asia,Western Asia and Northern Africa,1.64
+Senegal,2010,Developing,64.3,212,21,0.28,1.020071763,89,428,21.7,32,76,4.62,89,0.4,11.631377,13000000,1.4,1.3,0.449,7.7,Western Africa,Sub-Saharan Africa,3.57
+Senegal,2000,Developing,57.5,25,27,0.29,5.397368532,,5839,17.5,50,49,4.63,52,0.5,473.45338,10800000,12.3,12.3,0.378,5.2,Western Africa,Sub-Saharan Africa,3.95
+Serbia,2010,Developing,74.4,128,1,9.65,774.4396617,89,20,57,1,91,1.9,91,0.1,5411.87744,7200000,2.2,2.3,0.755,13.6,Southern Europe,Northern America and Europe,26.65
+Serbia,2000,Developing,72.6,141,1,7.38,11.85928108,,38,51.2,2,98,6.53,95,0.1,87.1365252,7400000,2.8,2.9,0.702,13,Southern Europe,Northern America and Europe,19.85
+Sierra Leone,2010,Developing,48.1,424,27,3.84,5.347717533,86,1089,21.7,40,84,1.32,86,1.6,45.128418,5600000,8.3,8.2,0.384,8.7,Western Africa,Sub-Saharan Africa,63.19
+Sierra Leone,2000,Developing,39,533,29,3.97,20.39568283,,3575,17.2,48,46,13.63,44,1.2,139.3147734,4700000,1.3,1.4,0.292,6.7,Western Africa,Sub-Saharan Africa,129.94
+Slovakia,2010,Developed,75.1,124,0,10.13,0,99,0,55.9,0,99,8.51,99,0.1,,5400000,1.3,1.3,0.822,15,Eastern Europe,Northern America and Europe,82.51
+Slovakia,2000,Developed,73,147,0,11.06,0,98,0,5.7,1,98,5.5,99,0.1,,5400000,1.6,1.7,0.761,13,Eastern Europe,Northern America and Europe,58.43
+Slovenia,2010,Developed,79.5,87,0,10.32,3187.496219,,2,57,0,96,9.7,96,0.1,23437.4722,2000000,1.6,1.6,0.872,16.9,Southern Europe,Northern America and Europe,52.05
+Slovenia,2000,Developed,76,122,0,11.9,161.4473853,,0,51.2,0,93,8.26,91,0.1,1227.73677,1900000,2.2,2.3,0.818,14.6,Southern Europe,Northern America and Europe,57.18
+South Africa,2010,Developing,58,428,43,7.28,1038.885632,71,12499,47.2,62,72,8.5,72,11,7362.76139,51000000,7.3,8.9,0.63,12.8,Southern Africa,Sub-Saharan Africa,3
+South Africa,2000,Developing,57.3,397,51,7.3,45.96380839,73,1459,4.1,73,71,8.7,73,21.3,337.2253,47000000,16.3,19.1,0.635,13,Southern Africa,Sub-Saharan Africa,4.28
+Spain,2010,Developed,81.9,64,1,9.78,578.7417172,97,302,63.5,2,97,9.56,97,0.1,3736.228,46000000,0.6,0.5,0.86,16.4,Southern Europe,Northern America and Europe,64.1
+Spain,2000,Developed,79.1,86,2,11.12,1934.398154,77,152,57.6,2,95,7.21,95,0.1,14676.769,40000000,0.6,0.5,0.82,15.7,Southern Europe,Northern America and Europe,85.78
+Sudan,2010,Developing,62.5,243,62,1.77,172.0097884,75,680,,92,9,7.97,9,0.3,1476.47887,40000000,,,0.461,7,Northern Africa,Western Asia and Northern Africa,3.93
+Sudan,2000,Developing,58.6,284,71,1.76,30.86000992,,2875,,109,62,3.23,62,0.1,361.35843,32000000,,,0.394,5.5,Northern Africa,Western Asia and Northern Africa,7.24
+Sweden,2010,Developed,81.5,58,0,7.2,778.2477467,,6,57.3,0,98,9.47,98,0.1,5276.25591,9000000,1.3,1.3,0.895,15.8,Northern Europe,Northern America and Europe,65.55
+Sweden,2000,Developed,79.6,73,0,6.2,3689.7273,,59,52.8,0,99,8.18,99,0.1,29283.55,8800000,1.4,1.3,0.873,15.9,Northern Europe,Northern America and Europe,87.69
+Switzerland,2010,Developed,82.3,57,0,10.01,2198.590865,,77,55.4,0,96,11.7,95,0.1,74276.71842,7800000,0.5,0.4,0.92,15.4,Western Europe,Northern America and Europe,40.84
+Switzerland,2000,Developed,79.7,78,0,11.26,5834.582046,,0,5.8,0,95,9.91,93,0.1,37813.23426,7200000,0.7,0.5,0.879,15.1,Western Europe,Northern America and Europe,40.21
+Syria,2010,Developing,73.7,127,7,0.78,0,84,26,52.3,9,83,3.28,8,0.1,,21000000,6.4,6.1,0.65,11.7,Western Asia,Western Asia and Northern Africa,7.07
+Syria,2000,Developing,72.6,136,10,1.41,81.7274712,79,146,43.9,12,86,4.92,84,0.1,1177.629268,17000000,6.8,6.6,0.588,10,Western Asia,Western Asia and Northern Africa,12.88
+Tajikistan,2010,Developing,67.3,171,10,0.32,43.34099958,93,0,36.6,12,95,6.4,93,0.2,738.3475227,7400000,3.7,3.8,0.603,11.1,Central Asia,Central and Southern Asia,27.18
+Tajikistan,2000,Developing,63.7,198,14,0.37,8.943006492,,192,31.3,17,86,4.64,83,0.3,138.436633,6000000,4.2,4.1,0.529,9.6,Central Asia,Central and Southern Asia,76.31
+Thailand,2010,Developing,73.9,158,10,5.95,71.6850913,98,2583,27.9,12,99,3.81,99,0.2,575.32176,67000000,8.2,8.3,0.711,13.1,South-eastern Asia,Eastern and South-eastern Asia,51.11
+Thailand,2000,Developing,71.1,194,18,5.88,0.27564826,95,4074,18.7,21,97,3.4,97,0.8,27.564826,61000000,9.4,9.7,0.64,10.9,South-eastern Asia,Eastern and South-eastern Asia,115.55
+Timor-Leste,2010,Developing,66.9,163,2,0.1,38.58376645,72,50,15.5,3,72,0.92,72,0.1,849.8626972,1100000,11.5,11.5,0.599,12.4,South-eastern Asia,Eastern and South-eastern Asia,15.69
+Timor-Leste,2000,Developing,58.7,276,3,0.5,49.06967155,,0,11.9,4,,3.26,,0.1,422.28633,900000,12.2,12.2,0,0,South-eastern Asia,Eastern and South-eastern Asia,28.52
+Tunisia,2010,Developing,74.8,12,3,1.28,64.85616718,98,1,56.5,3,98,6.54,98,0.1,414.15177,10500000,6.3,6.3,0.71,14.4,Northern Africa,Western Asia and Northern Africa,8.11
+Tunisia,2000,Developing,72.9,112,4,1.21,264.7842196,94,47,48.1,5,97,5.4,97,0.1,2213.91488,9500000,6.6,6.5,0.646,12.8,Northern Africa,Western Asia and Northern Africa,7.01
+Turkey,2010,Developing,74.2,116,21,1.49,32.78235828,96,7,61.9,25,97,5.61,97,0.1,1672.5693,73000000,4.9,4.7,0.715,13,Western Asia,Western Asia and Northern Africa,33.31
+Turkey,2000,Developing,74,143,44,1.54,421.2956602,71,16244,53.5,54,85,4.95,85,0.1,4316.553895,67000000,5.3,5.2,0.641,10.7,Western Asia,Western Asia and Northern Africa,38.07
+Turkmenistan,2010,Developing,65.8,211,7,2.48,385.325164,96,0,44.2,8,96,1.99,96,0.1,4439.23,5100000,3.2,3.3,0,10.6,Central Asia,Central and Southern Asia,4.89
+Turkmenistan,2000,Developing,63.8,224,7,2.9,88.2436347,,113,37.5,9,98,3.94,97,0.1,643.17518,4700000,3.6,3.6,0,0,Central Asia,Central and Southern Asia,3.08
+Uganda,2010,Developing,58.4,362,79,10.03,116.202964,8,1313,16.3,119,79,11.2,8,8,594.9972557,33000000,6,6,0.473,10.9,Eastern Africa,Sub-Saharan Africa,209.69
+Uganda,2000,Developing,46.6,554,116,10.47,22.59447461,,42554,13,191,55,6.77,52,11.6,257.63369,23000000,7,7,0.382,9.8,Eastern Africa,Sub-Saharan Africa,222.4
+Ukraine,2010,Developing,69.8,212,5,8.39,375.6835376,48,39,58.5,6,57,7.81,52,0.2,2965.142365,46000000,2.4,2.5,0.728,14.9,Eastern Europe,Northern America and Europe,19.27
+Ukraine,2000,Developing,67.5,257,6,4.49,7.883791474,4,817,54.8,8,99,5.59,99,0.7,635.789635,49000000,3,3.1,0.669,13.3,Eastern Europe,Northern America and Europe,32.75
+United Arab Emirates,2010,Developing,76.2,82,1,1.69,308.0660742,94,87,55.8,1,94,3.93,94,0.1,3549.14832,9000000,5.1,4.9,0.826,13.3,Western Asia,Western Asia and Northern Africa,3.14
+United Arab Emirates,2000,Developing,74.2,17,1,1.64,262.9589578,92,69,54.1,1,94,2.38,94,0.1,3371.26869,4500000,5.4,5.1,0.791,11.8,Western Asia,Western Asia and Northern Africa,4.8
+United Kingdom,2010,Developed,82,77,3,10.88,0,,443,63.6,4,94,9.51,94,0.1,,62000000,0.8,0.5,,,Northern Europe,Northern America and Europe,43.71
+United Kingdom,2000,Developed,77.8,89,4,10.59,0,,104,57.5,5,91,6.94,91,0.1,,59000000,0.7,0.5,,,Northern Europe,Northern America and Europe,66.84
+Tanzania,2010,Developing,57.5,36,89,4.19,0,91,167,2.7,131,94,5.3,91,4.6,,46000000,7.1,7.1,,,Eastern Africa,Sub-Saharan Africa,85.53
+Tanzania,2000,Developing,49.2,457,114,3.89,0,,14649,16,181,64,2.64,79,12.8,,34000000,8.3,8.3,,,Eastern Africa,Sub-Saharan Africa,159.33
+United States of America,2010,Developed,78.7,15,25,8.55,0,92,63,66.9,30,93,17.2,95,0.1,,309000000,0.7,0.6,,,Northern America,Northern America and Europe,427.84
+United States of America,2000,Developed,76.8,114,28,8.21,0,9,85,6.1,33,9,13.7,94,0.1,,282000000,0.8,0.7,,,Northern America,Northern America and Europe,586.9
+Uruguay,2010,Developing,76.3,118,0,6.21,2331.532804,95,0,61.2,1,95,8.63,95,0.1,11938.212,3400000,1.5,1.5,0.777,15.6,South America,Latin America and the Caribbean,172.34
+Uruguay,2000,Developing,75.1,131,1,6.65,645.9583816,92,0,55,1,92,7.82,9,0.1,6871.897677,3200000,1.8,1.7,0.738,14,South America,Latin America and the Caribbean,230.73
+Uzbekistan,2010,Developing,68.3,183,20,2.73,119.4571154,99,117,4.7,23,99,5.34,99,0.2,1377.8214,28000000,3,3.1,0.657,11.9,Central Asia,Central and Southern Asia,41.89
+Uzbekistan,2000,Developing,67.1,189,30,1.6,48.50941741,,80,34.8,36,99,5.29,99,0.1,558.221144,25000000,3.4,3.4,0,10.6,Central Asia,Central and Southern Asia,42.62
+Venezuela,2010,Developing,73.7,158,9,7.22,0,78,0,59.3,10,74,5.4,78,0.1,,28500000,1.6,1.5,0.754,14,South America,Latin America and the Caribbean,10.45
+Venezuela,2000,Developing,72.5,168,11,8.01,0,5,22,53.4,13,86,4.91,77,0.1,,23500000,1.8,1.7,0.67,10.6,South America,Latin America and the Caribbean,12.88
+Vietnam,2010,Developing,75.2,133,29,3.93,0,88,2809,14,35,94,6.36,93,0.1,,87000000,14.5,15.4,0.647,11.9,South-eastern Asia,Eastern and South-eastern Asia,73.79
+Vietnam,2000,Developing,73.4,139,33,1.6,0,,16512,9.2,43,96,4.89,96,0.1,,79000000,15.8,16.4,0.569,10.4,South-eastern Asia,Eastern and South-eastern Asia,121.57
+Yemen,2010,Developing,64.4,233,35,0.06,0,76,510,37.2,45,77,5.17,76,0.1,,24000000,13.7,13.7,0.488,8.5,Western Asia,Western Asia and Northern Africa,0.41
+Yemen,2000,Developing,68,252,48,0.07,0,14,0,31.2,66,74,4.14,74,0.1,,19000000,14.1,14.1,0.436,7.7,Western Asia,Western Asia and Northern Africa,1.33
+Zambia,2010,Developing,58,363,30,2.47,184.3649102,83,15754,2.7,45,8,4.41,83,6.8,1463.213573,13000000,6.7,6.5,0.533,11.8,Eastern Africa,Sub-Saharan Africa,10.95
+Zambia,2000,Developing,43.8,614,44,2.62,45.61688038,,30930,16.8,72,85,7.16,85,18.7,341.955625,10000000,7.5,7.5,0.418,9.6,Eastern Africa,Sub-Saharan Africa,10.74
+Zimbabwe,2010,Developing,52.4,527,29,5.21,53.30858081,9,9696,29.4,44,89,5.37,89,15.7,713.63562,12000000,7.1,7,0.436,10,Eastern Africa,Sub-Saharan Africa,8.53
+Zimbabwe,2000,Developing,46,665,24,1.68,0,79,1483,25.5,39,78,7.1,78,43.5,547.3588785,11000000,11,11.2,0.434,9.8,Eastern Africa,Sub-Saharan Africa,5.37
